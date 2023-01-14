@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mijail Pulgar</h1>
 <h3 align="center">A passionate fullstack developer from Colombia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the Henry Bootcamp and open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
+- 🔭 I’m currently working on [HenryGadget](https://pf-henrygadget.onrender.com/)
+
 - 💬 Ask me about anything I will be happy to help you and expand my knowledge.
 
 - 📫 How to reach me **mijail86@gmail.com**
@@ -14,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mijailpulgar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mijailpulgar/" height="30" width="40" /></a>
+  <p > <img src="https://komarev.com/ghpvc/?username=mijaildesigns&label=Profile%20views&color=0e75b6&style=flat" alt="mijaildesigns" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

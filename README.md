@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [HenryGadget](https://pf-henrygadget.onrender.com/)
 
+- 🌱 I’m currently learning **Typescript, React Native**
+
 - 💬 Ask me about anything I will be happy to help you and expand my knowledge.
 
 - 📫 How to reach me **mijail86@gmail.com**

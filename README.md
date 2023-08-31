@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HenryGadget](https://pf-henrygadget.onrender.com/)
 
-- 🌱 I’m currently learning **Angular, React Native**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about anything I will be happy to help you and expand my knowledge.
 
